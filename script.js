@@ -1,6 +1,6 @@
 // ===== Products Data (Many) with images from Unsplash =====
 const PRODUCTS = [
-    {id:1,title:"Luxury Red Rose Bouquet",price:250,type:"bouquets",img:"https://www.pinterest.com/pin/348677196172246772/"},
+    {id:1,title:"Luxury Red Rose Bouquet ",price:250,type:"bouquets",img:"https://www.pinterest.com/pin/348677196172246772/"},
     {id:2,title:"Soft Pink Roses",price:190,type:"roses",img:"https://www.pinterest.com/pin/27443878976404552/"},
     {id:3,title:"Classic White Roses",price:170,type:"roses",img:"https://www.pinterest.com/pin/27303141486684133/"},
     {id:4,title:"Bright Yellow Bouquet",price:160,type:"roses",img:"https://www.pinterest.com/pin/127156389479996805/"},
